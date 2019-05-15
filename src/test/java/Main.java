@@ -74,10 +74,10 @@ public class Main {
     @Test
     public void Test03_Compare () {
 
-
 compareJson.Browsers(driver);
 
     }}
+
 
 
 
